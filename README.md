@@ -1,5 +1,5 @@
-### Hi there 👋
-Abdallah Alnajar
+### Hi there 👋 i'm Abdallah Alnajar
+
 
 - 🔭 I’m currently working on android development
 - 🌱 I’m currently learning computer scince 
